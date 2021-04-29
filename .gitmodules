@@ -1,0 +1,3 @@
+[submodule "tinder-backend"]
+	path = tinder-backend
+	url = https://github.com/yashyasviagarwal/Tinder
